@@ -1,0 +1,1 @@
+export const firebaseConfig = {"apiKey": "AIzaSyBHjUv8IWFSO1hCI0RiAI1UrZRKNdDkNM8", "authDomain": "ulawedu.firebaseapp.com", "projectId": "ulawedu", "appId": "1:62378007499:web:32bb970c8f9bf6e77bf44e"};
